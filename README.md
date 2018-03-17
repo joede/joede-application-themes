@@ -7,8 +7,8 @@ Welcome to my very personal collection of various colour schemes for terminal wi
 
 ## Skins for *Midnight Commander*
 
-**Scheme `joede-adwaita-darker`**
+**Scheme `jd-adwaita-darker`**
 
 This skin is designed to fit the colours of the GNOME theme "Adwaita Dark". Currently, I use the GNOME Terminal with it's default colour palette. I plan to add the palette matching my ["Adwaita Darker" colorschemes](https://github.com/joede/joede-geany-themes) for Geany.
 
-![joede-adwaita-darker](https://raw.github.com/joede/joede-console-themes/master/midnight-commander/joede-adwaita-darker.png)
+![jd-adwaita-darker](https://raw.github.com/joede/joede-console-themes/master/midnight-commander/jd-adwaita-darker.png)
