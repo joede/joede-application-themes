@@ -1,6 +1,6 @@
-# Collection of colour schemes for console applications
+# Collection of colour schemes for desktop applications
 
-Welcome to my very personal collection of various colour schemes for terminal windows and other console applications.
+Welcome to my very personal collection of various colour schemes for terminal windows and other desktop applications.
 
 *Note:* I mix the terms "skin", "scheme" and "theme" because different apps use different terms. In the end, all the terms means the same. ;-)
 
